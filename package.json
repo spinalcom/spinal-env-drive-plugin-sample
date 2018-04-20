@@ -1,5 +1,5 @@
 {
-  "name": "spinal-env-drive-sample-plugin",
+  "name": "spinal-env-drive-plugin-sample",
   "version": "1.0.0",
   "description": "sample panel plugin pour le tutoriel Panel plugin | drive / admin",
   "main": "main.js",
