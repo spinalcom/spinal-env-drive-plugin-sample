@@ -10,7 +10,7 @@
           });
         };
         let toload = [{
-          uri: '../templates/spinal-env-drive-sample-plugin/samplePlugin.html',
+          uri: '../templates/spinal-env-drive-plugin-sample/samplePlugin.html',
           name: 'samplePlugin.html'
         }];
         for (var i = 0; i < toload.length; i++) {
