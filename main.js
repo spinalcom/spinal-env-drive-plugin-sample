@@ -53,7 +53,7 @@
 
                   console.log(selected);
 
-                  $scope.bravo = "Bravo votre drag & drop fonctionne";
+                  $scope.bravo = "Congratulation your drag & drop work";
 
 
 
